@@ -42,24 +42,25 @@
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"> </code>
+  <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"> </code>
+  <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"> </code>
-  <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"> </code>
+  <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg"> </code>
-  <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"> </code>
-  <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg"> </code>
-  <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"> </code>
-  <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"> </code>
   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"> </code>
-  <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"> </code>
+  <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg"> </code>
+  <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"> </code>
+  <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"> </code>
+ <code> <img height = "50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"> </code>
   </div>
   <hr>
   <p align="center">
