@@ -28,7 +28,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 
-✔ 🏠  I am currently developing a website for a real estate company.<br>
+✔ 🏠  I am currently developing a <a href ="https://github.com/jorgarcia12/inmobiliaria"> <b>website for a real estate company.</b> </a><br> 
 ✔ 🐍 I’m currently learning about python<br>
 ✔ 🧠 I am very interested in AI and automations.<br>
 <br><br><br><br>
