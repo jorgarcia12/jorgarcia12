@@ -13,8 +13,6 @@
 </p>
 </p>
 
-
-
 <p align="center">
   <em>
     Hello, I am Jorge Garcia a graduate from <a href="https://www4.frm.utn.edu.ar/"> <b>National Technological University (UTN)</b>, Mendoza</a>. <br>
@@ -27,14 +25,13 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-
-✔ 🏠  I am currently developing a <a href ="https://github.com/jorgarcia12/inmobiliaria"> <b>website for a real estate company.</b> </a><br> 
+✔ 🏠 I am currently developing a <a href ="https://github.com/jorgarcia12/inmobiliaria"> <b>website for a real estate company.</b> </a><br>
+✔ 💼 I am currently working as an Odoo developer at <b>Goodcomex</b><br>
 ✔ 🐍 I’m currently learning about python<br>
 ✔ 🧠 I am very interested in AI and automations.<br>
 <br><br><br><br>
- 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_My working tools..._**
 
 <div align = "center">
   <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
@@ -74,17 +71,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=jorgarcia12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=jorgarcia12&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=jorgarcia12&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
  </div>
-
-
-
-
-
-
-
-
