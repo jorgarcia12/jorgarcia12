@@ -64,18 +64,15 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  <div align = "center">
    
-![](https://github-readme-stats.vercel.app/api?username=jorgarcia12&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jorgarcia12&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgarcia12&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jorgarcia12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jorgarcia12&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgarcia12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jorgarcia12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=jorgarcia12&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=jorgarcia12&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=jorgarcia12&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
  </div>
