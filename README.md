@@ -1,8 +1,10 @@
  <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
-  
-  <img src="https://img.shields.io/badge/Lives-Argentina-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
+<img src="https://img.shields.io/badge/Age-22-rgb(56,189,248)?style=for-the-badge&labelColor=1e293b&color=0ea5e9" />
+<img src="https://img.shields.io/badge/Lives-Argentina-rgb(125,211,252)?style=for-the-badge&labelColor=1e293b&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/Languages-English%20&%20Spanish-rgb(134,239,172)?style=for-the-badge&labelColor=1e293b" />
+
+
+
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Jorge Garcia Ojeda </h1>
@@ -25,13 +27,13 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ 🏠 I am currently developing a <a href ="https://github.com/jorgarcia12/inmobiliaria"> <b>website for a real estate company.</b> </a><br>
-✔ 💼 I am currently working as an Odoo developer at <b>Goodcomex</b><br>
-✔ 🐍 I’m currently learning about python<br>
-✔ 🧠 I am very interested in AI and automations.<br>
+✔ 🏠 Currently developing a <a href ="https://github.com/jorgarcia12/inmobiliaria"> <b>real state website.</b> </a><br>
+✔ 💼 Odoo developer at **Goodcomex**<br>
+✔ 🐍 Learning **Python**<br>
+✔ 🧠 Interested in **AI and automations.**<br>
 <br><br><br><br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_My working tools..._**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_My tech stack..._**
 
 <div align = "center">
   <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
